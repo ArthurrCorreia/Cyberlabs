@@ -4,7 +4,7 @@
 
 Este laboratório teve como objetivo compreender, na prática, como um serviço cria uma superfície de ataque, como essa superfície pode ser identificada por meio de reconhecimento de rede e como o processo responsável pode ser investigado diretamente no endpoint.
 
-O laboratório também foi utilizado para relacionar as perspectivas ofensiva e defensiva através do fluxo:
+O laboratório também foi utilizado para relacionar as perspectivas ofensiva e defensiva através do fluxo que vou utilizar em meus estudos do dia a dia:
 
 **Reconhecimento → Evidência → Investigação → Mitigação → Reteste**
 
@@ -367,16 +367,4 @@ A utilização de múltiplas evidências ajuda a fortalecer uma hipótese antes 
 
 ---
 
-## Segurança e ética
-
-Todos os testes deste laboratório foram realizados exclusivamente em uma máquina virtual própria e em ambiente controlado.
-
-Nenhum sistema externo ou de terceiros foi utilizado.
-
----
-
-## Próximos passos
-
-Continuar o estudo de ameaças, vetores de ataque e técnicas utilizadas contra endpoints e redes, mantendo a abordagem:
-
-**Conceito → Prática → Ataque → Evidência → Investigação → Defesa → Reteste**
+Pra tudo tem seu começo, independente do que possam falar, então apenas comece! 
