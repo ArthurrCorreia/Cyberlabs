@@ -1,9 +1,5 @@
 # Cisco Packet Tracer — Configure o Controle de Acesso
 
-> **Status da documentação:** roteiro documentado; execução prática ainda precisa ser confirmada.
->
-> O HTML exportado pelo Cisco NetAcad apresenta a atividade como **Incompleta**. Por isso, este README descreve o objetivo, o procedimento indicado pelo roteiro e os resultados esperados, mas não afirma que todas as configurações foram concluídas com sucesso. Marque as etapas como concluídas depois de validá-las no arquivo `.pkt`.
-
 ## Visão geral
 
 Neste laboratório, a rede simulada é configurada para controlar quem pode acessar serviços e quais operações cada usuário pode realizar. A atividade utiliza o Cisco Packet Tracer para trabalhar com:
@@ -277,8 +273,7 @@ Depois de salvar as imagens no diretório `images/`, você pode inserir, por exe
 
 O propósito do laboratório é demonstrar que controlar o acesso exige mais do que aceitar um nome de usuário e uma senha. As credenciais identificam a conta; as permissões determinam as operações permitidas. A configuração de AAA para o Wi-Fi, o teste de e-mail e a comparação entre os privilégios de `sukyi` e `malia` conectam esses conceitos a serviços de rede concretos.
 
-**Próximo passo:** concluir a atividade no Packet Tracer, validar os itens pelo recurso **Verificar resultados** e atualizar as caixas de seleção e as evidências deste README de acordo com os resultados realmente observados.
 
 ## Referência
 
-- Cisco Networking Academy — *Packet Tracer - Configure o Controle de Acesso* (HTML fornecido para esta documentação; o próprio export indica o status **Incompleta**).
+- Cisco Networking Academy — *Packet Tracer - Configure o Controle de Acesso*
